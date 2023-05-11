@@ -1,0 +1,5 @@
+useLoader=true
+192.168.1.17
+Minecraft.sprx
+Minecraft.sprx
+/dev_hdd0/tmp/
