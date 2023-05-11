@@ -4,6 +4,7 @@
 A simple tool that can inject any SPRX to your PS3 after have build it on visual studio.
 
 How to use it ?
+<br>
 In the source of your SPRX go in settings and then go in "Build Events" -> Post-Build Event
 In "Command Line" add this: IF EXIST "$(TargetDir)run.exe"  "$(TargetDir)run.exe"
 
